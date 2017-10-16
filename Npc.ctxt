@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Npc()
+comment1.params=prefix\ suffix\ numOfImages
+comment1.target=Npc(java.lang.String,\ java.lang.String,\ int)
+comment2.params=percentChance
+comment2.target=void\ facePlayer(int)
+comment3.params=
+comment3.target=void\ touchGround()
+numComments=4

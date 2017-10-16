@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=methodname\ maxlife
+comment0.target=void\ init(java.lang.String,\ double)
+comment1.params=methodname\ maxlife
+comment1.target=CoolDown(java.lang.String,\ double)
+comment2.params=methodname
+comment2.target=CoolDown(java.lang.String)
+comment3.params=
+comment3.target=boolean\ isAvailable()
+comment4.params=
+comment4.target=java.lang.String\ getMethodName()
+comment5.params=birthTime
+comment5.target=void\ setBirth(double)
+comment6.params=
+comment6.target=double\ elapsed()
+comment7.params=
+comment7.target=double\ maxLife()
+comment8.params=val
+comment8.target=void\ setMaxLife(double)
+numComments=9
