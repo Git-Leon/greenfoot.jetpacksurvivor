@@ -1,7 +1,7 @@
 import greenfoot.Greenfoot;
 import greenfoot.GreenfootSound;
 import greenfoot.GreenfootImage;
-import java.awt.Color;
+import greenfoot.Color;
 import java.lang.reflect.Field;
 public class Util {
     public static boolean isInRange(int testVal, int min, int max) {
@@ -41,7 +41,7 @@ public class Util {
     }
 
     public static boolean hasLifted(String key) {
-        return true;	
+        return true;    
     }
 
     public static boolean XOR(boolean x, boolean y) {

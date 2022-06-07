@@ -1,4 +1,4 @@
-import java.awt.Color;
+
 import greenfoot.*;
 public class Menu extends SubActor {
     private Color color = new Color(255, 255, 255, 255);
@@ -14,7 +14,7 @@ public class Menu extends SubActor {
 
     public Menu(String text) {
         this.name = text;
-        setImage(Util.Text.getText(text, 20, this.color));	
+        setImage(Util.Text.getText(text, 20, this.color));    
     }
 
     public void act() {

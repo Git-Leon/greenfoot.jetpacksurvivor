@@ -1,5 +1,4 @@
 import greenfoot.*;
-import java.awt.Color;
 import java.lang.reflect.Field;
 public class Loot extends SubActor {
     private String[] types = {       
